@@ -4,10 +4,7 @@
 
 ### **Directorios**
 * **src** -> Código fuente
-* **checkpoint** -> Distintos modelos entrenados
 * **ficheros_datos** -> Ficheros con los que se entrenaron los modelos
-* **models** -> Modelos de GPT-2 descargados
-* **Old** -> Modelos antiguos que no se utilizan actualmente
 
 
 ### **Guía de ejecución**
