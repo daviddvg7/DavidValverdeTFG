@@ -15,3 +15,5 @@
     * 1 - Entrenamiento
     * 2 - Ejecución
     * 0 - Ambos
+
+**NOTA**: Github no permite subir ficheros de gran tamaño, por lo que no ha sido posible subir ningún modelo entrenado
