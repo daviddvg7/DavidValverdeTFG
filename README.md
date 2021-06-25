@@ -8,7 +8,7 @@
 
 
 ### **Guía de ejecución**
-* Para activar el bot de Telegram, debe ejecutarse el fichero **bot_telegram.py** con la versión **3.6** de Python
+* Para activar el bot de Telegram (@DavidValverdeTFG), debe ejecutarse el fichero **bot_telegram.py** con la versión **3.6** de Python
 * Para entrenar o ejecutar un modelo, debe ejecutarse el fichero **train_or_execute.py** con la versión **3.6** de Python. Este programa recibe dos parámetros: 
   * El nombre del modelo a ejecutar, que suele coincidir con el nombre del fichero de entrenamiento correspondiente
   * Un número que indica la operación a realizar:
